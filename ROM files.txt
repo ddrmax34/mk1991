@@ -1,0 +1,68 @@
+# format instruction line as <source_file>, <source_start_offset>, <rom_offset>, <data_size>
+
+
+
+
+# mode7 tiles
+../1991_alpha/DATA/bg1.CH7, 0x00000, 0x38000, 0x4000
+
+
+
+# BG race thing?
+../1991_alpha/DATA/C1-B.CGX, 0x00000, 0x3c000, 0x2000
+
+../1991_alpha/DATA/C1-B.SCR, 0x00000, 0x3e000, 0x2000
+
+
+
+# TEXT FOR MENU
+../1991_alpha/DATA/CAR.CGX, 0x04000, 0x4c000, 0x1000
+
+# MAIN CGRAM DATA
+../1991_alpha/DATA/color1.COL, 0x00000, 0x4fe00, 0x0200
+
+
+
+# BG race thing
+../1991_alpha/DATA/C1-B.CGX, 0x00000, 0x4a000, 0x2000
+
+../1991_alpha/DATA/C1-B.SCR, 0x00000, 0x48000, 0x2000
+
+
+# H00
+../1991_alpha/DATA/screenh0-0.SCR, 0x00000, 0x108000, 0x2000
+../1991_alpha/DATA/screenh0-1.SCR, 0x00000, 0x10a000, 0x2000
+../1991_alpha/DATA/screenh0-2.SCR, 0x00000, 0x10c000, 0x2000
+../1991_alpha/DATA/screenh0-3.SCR, 0x00000, 0x10e000, 0x2000
+
+# K00
+../1991_alpha/DATA/screenk0-0.SCR, 0x00000, 0x118000, 0x2000
+../1991_alpha/DATA/screenk0-1.SCR, 0x00000, 0x11a000, 0x2000
+../1991_alpha/DATA/screenk0-2.SCR, 0x00000, 0x11c000, 0x2000
+../1991_alpha/DATA/screenk0-3.SCR, 0x00000, 0x11e000, 0x2000
+
+# K01
+../1991_alpha/DATA/screenk1-0.SCR, 0x00000, 0x128000, 0x2000
+../1991_alpha/DATA/screenk1-1.SCR, 0x00000, 0x12a000, 0x2000
+../1991_alpha/DATA/screenk1-2.SCR, 0x00000, 0x12c000, 0x2000
+../1991_alpha/DATA/screenk1-3.SCR, 0x00000, 0x12e000, 0x2000
+
+# K02
+../1991_alpha/DATA/screenk2-0.SCR, 0x00000, 0x138000, 0x2000
+../1991_alpha/DATA/screenk2-1.SCR, 0x00000, 0x13a000, 0x2000
+../1991_alpha/DATA/screenk2-2.SCR, 0x00000, 0x13c000, 0x2000
+../1991_alpha/DATA/screenk2-3.SCR, 0x00000, 0x13e000, 0x2000
+
+# K03
+../1991_alpha/DATA/screenk3-0.SCR, 0x00000, 0x148000, 0x2000
+../1991_alpha/DATA/screenk3-1.SCR, 0x00000, 0x14a000, 0x2000
+../1991_alpha/DATA/screenk3-2.SCR, 0x00000, 0x14c000, 0x2000
+../1991_alpha/DATA/screenk3-3.SCR, 0x00000, 0x14e000, 0x2000
+
+
+
+# mario car, luigi is just green mario??
+../1991_alpha/DATA/mario.CGX, 0x00000, 0x188000, 0x8000
+
+# kuppa car
+../1991_alpha/DATA/koopa.CGX, 0x00000, 0x198000, 0x8000

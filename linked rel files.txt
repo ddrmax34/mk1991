@@ -1,0 +1,8 @@
+../1991_alpha/CODE/sfx-exp.rel
+../1991_alpha/CODE/init-exp.rel
+../1991_alpha/CODE/set-bg.rel
+../1991_alpha/CODE/set-obj.rel
+../1991_alpha/CODE/calc-exp.rel
+../1991_alpha/CODE/data-exp.rel
+../1991_alpha/CODE/ctrl-exp.rel
+../1991_alpha/CODE/check-exp.rel

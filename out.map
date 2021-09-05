@@ -1,0 +1,11 @@
+../1991_alpha/CODE/sfx-exp.rel sfx-exp                        PSEG            00:8000	 00:8252	 0253
+../1991_alpha/CODE/sfx-exp.rel sfx-exp                        ASEG            00:ffea	 00:ffeb	 0002
+../1991_alpha/CODE/sfx-exp.rel sfx-exp                        ASEG            00:ffee	 00:ffef	 0002
+../1991_alpha/CODE/sfx-exp.rel sfx-exp                        ASEG            00:fffc	 00:fffd	 0002
+../1991_alpha/CODE/init-exp.rel init-exp                       PSEG            00:8253	 00:8a6d	 081b
+../1991_alpha/CODE/set-bg.rel  set-bg                         PSEG            00:8a6e	 00:8e77	 040a
+../1991_alpha/CODE/set-obj.rel set-obj                        PSEG            00:8e78	 00:9776	 08ff
+../1991_alpha/CODE/calc-exp.rel calc-exp                       PSEG            00:9777	 00:a1fe	 0a88
+../1991_alpha/CODE/data-exp.rel data-exp                       PSEG            00:a1ff	 00:a781	 0583
+../1991_alpha/CODE/ctrl-exp.rel ctrl-exp                       PSEG            00:a782	 00:b04c	 08cb
+../1991_alpha/CODE/check-exp.rel check-exp                      PSEG            00:b04d	 00:b169	 011d
